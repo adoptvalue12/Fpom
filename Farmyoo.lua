@@ -1,4 +1,4 @@
--- AdoptMe Farm  v3.0.74 | Adopt Victims v3 | settings: the window
+-- AdoptMe Farm  v3.0.74 | Yuno Victims v3 | settings: the window
 local UserConfig = {
     Farm = {
         Enabled = true, -- false = everything paused ("Pause all" in the window); each feature has its own switch
