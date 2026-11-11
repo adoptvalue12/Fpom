@@ -1,7 +1,7 @@
 -- YunoHub 1.25 - Farm fix + Fling murderer on full bag + Smart features
 -- Local names are inferred from use (the original names are not in the bytecode)
 
-local lib = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua"))()
 lib:SetNotificationLower(true)
 
 --========================================================================
