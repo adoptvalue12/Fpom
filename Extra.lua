@@ -3178,11 +3178,11 @@ updateCursor()
 v:Tab({ Title = "Unknown", Icon = "info", Locked = false, Hidden = true }):Paragraph({
 	Title = "Yuno Studios",
 	Desc = "Join our Discord server for updates and more!",
-	Thumbnail = "rbxassetid://140031939906800",
+	Thumbnail = "rbxassetid://7129155278",
 	ThumbnailSize = 140,
 	Buttons = {
 		{Title = "Copy Link", Callback = function()
-			setclipboard("https://discord.gg/eNt4edXCKS")
+			setclipboard("https://bloopyuno.netlify.app")
 			lib:Notify({Title = "Info", Content = "Discord link copied", Duration = 3, Icon = "info"})
 		end},
 	},
