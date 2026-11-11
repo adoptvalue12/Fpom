@@ -3182,7 +3182,7 @@ v:Tab({ Title = "Unknown", Icon = "info", Locked = false, Hidden = true }):Parag
 	ThumbnailSize = 140,
 	Buttons = {
 		{Title = "Copy Link", Callback = function()
-			setclipboard("https://bloopyuno.netlify.app")
+			setclipboard("")
 			lib:Notify({Title = "Info", Content = "Discord link copied", Duration = 3, Icon = "info"})
 		end},
 	},
